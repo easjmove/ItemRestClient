@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Exercise5">
+      <HintPath>..\Rest Projects\Exercise5\Exercise1\bin\Debug\net5.0\Exercise5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
